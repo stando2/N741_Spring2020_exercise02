@@ -1,3 +1,6 @@
+#my work on exercise 2
+# jan 22, 2020
+
 library(hexbin)
 
 
